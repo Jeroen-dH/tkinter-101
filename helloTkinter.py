@@ -10,8 +10,8 @@ textbox = tkinter.Label(
     text="Hello tkinter!",
     bg="red",
     fg="black",
-    width=50,
-    font=100
+    width=50
+
     
 )
 textbox.pack(
