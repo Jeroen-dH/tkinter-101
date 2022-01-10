@@ -11,7 +11,7 @@ def tijd():
     
 clock = tkinter.Label(
     gui,
-    font=("aria",120),
+    font=("arial",120),
     bg="Yellow",
     fg="black",
     
