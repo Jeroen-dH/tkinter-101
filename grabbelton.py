@@ -41,7 +41,7 @@ y = tkinter.Label(
     gui,
     text="Het item dat je hebt getrokken is:",
     font=("arial", 10),
-    bg="#6496C8",
+    bg="#6497C8",
     fg="Black",
     borderwidth="2",
     relief="solid"
