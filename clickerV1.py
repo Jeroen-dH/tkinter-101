@@ -51,8 +51,6 @@ counter.pack(
     
 )
 
-
-        
 # de Down button
 def down():
     global clickcounter
