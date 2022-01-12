@@ -10,7 +10,7 @@ textbox = tkinter.Label(
     text="Hello tkinter!",
     bg="red",
     fg="black",
-    width=50
+    width=49
 
     
 )
